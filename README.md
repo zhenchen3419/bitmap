@@ -10,6 +10,7 @@ Test bitmap index Compression with WAH (Word-Aligned Hybrid) method.
 
 # Reference
 
-https://en.wikipedia.org/wiki/Bit_array 
+[Bitmap index]:[https://en.wikipedia.org/wiki/Bitmap_index] 
 
-https://en.wikipedia.org/wiki/Bitmap_index 
+[Bit Array]:[https://en.wikipedia.org/wiki/Bit_array] 
+

@@ -1,8 +1,7 @@
-# bitmapIndex 
-Testing Bitmap Index with WAH(Word-Aligned Hybrid) method. 
+#  WAH
+Test bitmap index Compression with WAH (Word-Aligned Hybrid) method. 
 
 # How to run?
-
 ## Build
 `make` 
 
